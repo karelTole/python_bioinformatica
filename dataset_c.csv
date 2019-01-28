@@ -1,0 +1,75 @@
+agente,practica
+RUr1,Camion
+RUr1,Gurda MatConstr
+RUr1,Cascajo Calles
+RUr0,Puerta ajena
+RUr0,Ruta Camion
+RUr0,Mercado
+RUr0,Calles
+RUr0,Gurda MatConstr
+RUr0,Cascajo Calles
+RAHICe,Puerta ajena
+RAHICe,Ruta Camion
+RAHICe,Quema
+RAHICe,Calles
+RAHICe,Baldios
+RAHICe,Gurda MatConstr
+RAHICe,Cascajo Calles
+RAHICh,Puerta ajena
+RAHICh,Ruta Camion
+RAHICh,Quema
+RAHICh,Entierra
+RAHICh,Canales
+RAHICh,Cascajo Canales
+RAHICh,Gurda MatConstr
+AgriCh,Ruta Camion
+AgriCh,Quema
+AgriCh,Entierra
+AgriCh,Contenedor
+AgriCh,Calles
+AgriCh,Canales
+AgriCh,Baldios
+AgriCh,Gurda MatConstr
+AgriCh,Cascajo Canales
+AgriCe,Quema
+AgriCe,Entierra
+AgriCe,Apila
+AgriCe,Calles
+AgriCe,Baldios
+AgriCe,Gurda MatConstr
+AgriCe,Cascajo Calles
+AgriUr,Camion
+AgriUr,Ruta Camion
+AgriUr,Quema
+AgriUr,Entierra
+AgriUr,Apila
+AgriUr,Gurda MatConstr
+AgriUr,Cascajo Calles
+Mascotas,Calles
+Transeuntes,Mercado
+Transeuntes,Contenedor
+Transeuntes,Calles
+Transeuntes,Canales
+Transeuntes,Baldios
+Transeuntes,Guarda
+Clientes,Mercado
+Clientes,Contenedor
+Clientes,Calles
+Clientes,Canales
+Clientes,Baldios
+Clientes,Guarda
+Microbus,Contenedor
+Microbus,Calles
+Microbus,Baldios
+Estudiantes,Puerta ajena
+Estudiantes,Contenedor
+Estudiantes,Calles
+Estudiantes,Canales
+Estudiantes,Baldios
+Estudiantes,Guarda
+Establecimientos,Camion
+Establecimientos,Mercado
+Ambulantes,Camion
+Ambulantes,Mercado
+Ambulantes,Contenedor
+Perros callejeros,Calles
